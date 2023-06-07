@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+login: 'alalalalal'
+passwd: '3dfd64df7e'
+name: "Test final work"
+email: "test_final@yandex.ru"
+message: "Message final work"
+text_about: "About Page"
+size_title: '32px'

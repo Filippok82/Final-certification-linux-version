@@ -1,0 +1,12 @@
+xpath:
+    field_login: //*[@id="login"]/div[1]/label/input
+    field_passwd: //*[@id="login"]/div[2]/label/input
+    text_hello_user: //*[@id="app"]/main/nav/ul/li[3]/a
+    btn_about: //*[@id="app"]/main/nav/ul/li[1]
+    text_about: //*[@id="app"]/main/div/div/h1
+
+
+css:
+    btn_selector: button
+
+
